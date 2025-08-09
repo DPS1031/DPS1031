@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">On the way to becoming a great fullstack developer</h3>
 
-![68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f34666630373938363230383539332e356439613635346539326633362e676966](https://github.com/user-attachments/assets/0ccbbca8-78e6-48d2-91cd-b439c295758f)
+![giphy](https://github.com/user-attachments/assets/6d5d6160-82c1-4283-a417-41a848c04523)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dps1031&label=Profile%20views&color=0e75b6&style=flat" alt="dps1031" /> </p>
 
