@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/david-pedroza-sanchez-9525b0346/](https://www.linkedin.com/in/david-pedroza-sanchez-9525b0346/)
 
-- ⚡ Fun fact **B2 English, B1 French**
+- ⚡ **B2 English, B1 French**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
