@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">On the way to becoming a great fullstack developer</h3>
 
+https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd25vajZhcGR0ZGdqanF4bjlhN3dsbHVmdnp6eDJramhjMmV2MmplcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dps1031&label=Profile%20views&color=0e75b6&style=flat" alt="dps1031" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dps1031" alt="dps1031" /></a> </p>
