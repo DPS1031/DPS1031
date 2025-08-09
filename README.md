@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [MY DASHBOARD APP](https://github.com/DPS1031/MyDasboardApp)
 
-- 🌱 I’m currently learning and perfecting **Angular,tailwind, css and python**
+- 🌱 I’m currently learning and perfecting **Angular, tailwind, css and python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DPS1031?tab=repositories](https://github.com/DPS1031?tab=repositories)
 
