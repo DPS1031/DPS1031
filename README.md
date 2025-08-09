@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">On the way to becoming a great fullstack developer</h3>
 
-![giphy](https://github.com/user-attachments/assets/88009e17-7e43-4694-a878-296e41a9be5b)<img style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+![68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f34666630373938363230383539332e356439613635346539326633362e676966](https://github.com/user-attachments/assets/6aef6d2d-7912-4bdb-8064-71df6cb44aa0)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dps1031&label=Profile%20views&color=0e75b6&style=flat" alt="dps1031" /> </p>
 
