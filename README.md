@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">On the way to becoming a great fullstack developer</h3>
 
-![giphy](https://github.com/user-attachments/assets/88009e17-7e43-4694-a878-296e41a9be5b)
+![giphy](https://github.com/user-attachments/assets/88009e17-7e43-4694-a878-296e41a9be5b)<img style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dps1031&label=Profile%20views&color=0e75b6&style=flat" alt="dps1031" /> </p>
 
