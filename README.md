@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **Davidpedroza2005@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/david-pedroza-sanchez-9525b0346/](https://www.linkedin.com/in/david-pedroza-sanchez-9525b0346/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/david-pedroza-sanchez-9525b0346/](www.linkedin.com/in/david-pedroza-sanchez-9525b0346)
 
 - ⚡ **B2 English, B1 French**
 
