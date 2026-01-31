@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dps1031" alt="dps1031" /></a> </p>
 
-- 🔭 I’m currently working on [MY DASHBOARD APP](https://github.com/DPS1031/MyDasboardApp)
+- 🔭 I’m currently working on [Angular-product-showcase]([https://github.com/DPS1031/MyDasboardApp](https://github.com/DPS1031/Angular-product-showcase.git))
 
 - 🌱 I’m currently learning and perfecting **Angular, tailwind, css and python**
 
