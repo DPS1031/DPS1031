@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">On the way to becoming a great fullstack developer</h3>
+<h3 align="center">Fullstack developer</h3>
 
 ![68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f34666630373938363230383539332e356439613635346539326633362e676966](https://github.com/user-attachments/assets/6aef6d2d-7912-4bdb-8064-71df6cb44aa0)
 
