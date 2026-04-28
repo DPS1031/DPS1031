@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Php, Java, C#, .Net, Postgres SQL, HTML**
 
-- 📫 How to reach me **Davidpedroza05@ghotmail.com**
+- 📫 How to reach me **Davidpedroza05@hotmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/david-pedroza-sanchez-9525b0346]
 
