@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/DPS1031?tab=repositories](https://github.com/DPS1031?tab=repositories)
 
-- 💬 Ask me about **Php, Java, C#, .Net, Postgres SQL, HTML**
+- 💬 Ask me about **Python, Docker, Php, Java, C#, .Net, Postgres SQL, HTML**
 
 - 📫 How to reach me **Davidpedroza05@hotmail.com**
 
