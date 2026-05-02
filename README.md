@@ -22,14 +22,12 @@
 
 <img src="https://img.shields.io/badge/Frontend-333?style=flat-square&logo=windowsterminal&logoColor=white" />
 <br>
-<img src="https://skillicons.dev/icons?i=angular,react,html,tailwind,js,jquery,css,figma" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=angular,react,html,tailwindcss,javascript,jquery,css,figma," />
 <br>
 
 <img src="https://img.shields.io/badge/Data_%26_IA-333?style=flat-square&logo=databricks&logoColor=white" />
 <br>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,python" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,mariadb,sqlserver,mongodb,python,gemini,chatgpt,claude" />
 <br>
 
 <img src="https://img.shields.io/badge/Tools_%26_DevOps-333?style=flat-square&logo=googlesheets&logoColor=white" />
