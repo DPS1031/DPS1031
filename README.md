@@ -41,7 +41,7 @@
 
 <img src="https://img.shields.io/badge/Data_%26_IA-333?style=flat-square&logo=databricks&logoColor=white" />
 <br>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,oracle,python," />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,sqlserver,python," />
 <br>
 
 <img src="https://img.shields.io/badge/Tools_%26_DevOps-333?style=flat-square&logo=googlesheets&logoColor=white" />
