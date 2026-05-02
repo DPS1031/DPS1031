@@ -26,13 +26,13 @@
 <a href="https://www.linkedin.com/in/david-pedroza-sanchez-9525b0346" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david pedroza sanchez" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">🛠️ Technology Arsenal</h3>
+<h3 align="left">🛠️ Technology Stack</h3>
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Backend-333?style=flat-square&logo=elemenaryos&logoColor=white" />
 <br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,ts,python" />
+<img src="https://skillicons.dev/icons?i=nodejs,ts,python,C#" />
 
 <br>
 
