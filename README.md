@@ -23,25 +23,25 @@
 
 <div align="center">
 
-##### 🖥️ Backend
+### 🖥️ Backend
 <br>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=python,nodejs,typescript,cs,dotnet,php,java,fastapi" />
 <br>
 
-#### 🌐 Frontend
+### 🌐 Frontend
 <br>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=angular,react,html,tailwindcss,javascript,jquery,css,figma" />
 <br>
 
-#### 🗄️ Databases
+### 🗄️ Databases
 <br>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,mariadb,sqlserver,mongodb" />
 <br>
 
-#### 🤖 AI & Tools
+### 🤖 AI & Tools
 <img src="https://go-skill-icons.vercel.app/api/icons?i=python,gemini,chatgpt,claude" />
 
-#### ☁️ DevOps & Cloud
+### ☁️ DevOps & Cloud
 <br>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=git,gitbash,github,vscode,visualstudio,docker,aws,kubernetes,linux,nginx,kali,wireshark,postman" />
 <br>
