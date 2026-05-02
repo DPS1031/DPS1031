@@ -1,67 +1,81 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">Fullstack developer</h3>
-
-
-![68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f34666630373938363230383539332e356439613635346539326633362e676966](https://github.com/user-attachments/assets/6aef6d2d-7912-4bdb-8064-71df6cb44aa0)
-
-
-
-<h3 align="center">Connect with me</h3>
+<h3 align="center">Fullstack Developer</h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/david-pedroza-sanchez-9525b0346/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:Davidpedroza05@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2E4aTRsMGs1dzZ6OGQzcXVtc2Y0NjgxaGx1cTJmbmc4bHUzajJ0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VXJWhaO7afRe/giphy.gif" width="800" alt="coding gif" />
 </div>
 
+<br>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/david-pedroza-sanchez-9525b0346/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:Davidpedroza05@hotmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=dps1031&label=Profile+views&color=0e75b6&style=for-the-badge" alt="profile views" />
+</div>
+
+---
 
 <h3 align="center">🛠️ Technology Stack</h3>
 
 <div align="center">
 
-### 🖥️ Backend
-<br>
+#### 🖥️ Backend
 <img src="https://go-skill-icons.vercel.app/api/icons?i=python,nodejs,typescript,cs,dotnet,php,java,fastapi" />
-<br>
 
-### 🌐 Frontend
-<br>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=angular,react,html,tailwindcss,javascript,jquery,css,figma," />
-<br>
+#### 🌐 Frontend
+<img src="https://go-skill-icons.vercel.app/api/icons?i=angular,react,html,tailwindcss,javascript,jquery,css,figma" />
 
-### 🗄️ Databases
-<br>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,mariadb,sqlserver,mongodb,python,gemini,chatgpt,claude" />
-<br>
+#### 🗄️ Databases
+<img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,mariadb,sqlserver,mongodb" />
 
-### 🤖 AI
-<br>
+#### 🤖 AI & Tools
 <img src="https://go-skill-icons.vercel.app/api/icons?i=python,gemini,chatgpt,claude" />
-<br>
 
-### ☁️ DevOps & Cloud
-<br>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=git,gitbash,github,vscode,visualstudio,docker,aws,kubernetes,linux,nginx,kali,wireshark,postman" />
+#### ☁️ DevOps & Cloud
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,docker,aws,kubernetes,linux,nginx,postman,vscode" />
+
 </div>
-<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dps1031&label=Profile%20views&color=0e75b6&style=flat" alt="dps1031" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dps1031" alt="dps1031" /></a> </p>
+<h3 align="center">📌 About Me</h3>
 
-- 🔭 I’m currently working on [Ecomerce-solution](https://github.com/DPS1031/ecommerce-project)
+<div align="center">
 
-- 🌱 I’m currently learning and perfecting **Angular, tailwind, css and python**
+🔭 Currently building &nbsp;**[Ecommerce Solution](https://github.com/DPS1031/ecommerce-project)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DPS1031?tab=repositories](https://github.com/DPS1031?tab=repositories)
+🌱 Currently deepening my skills in &nbsp;**Angular · Tailwind · Python**
 
-- 💬 Ask me about **Python, Docker, Php, Java, C#, .Net, Postgres SQL, HTML**
+👨‍💻 All my projects &nbsp;**[github.com/DPS1031](https://github.com/DPS1031?tab=repositories)**
 
-- 📫 How to reach me **Davidpedroza05@hotmail.com**
+📄 My experience &nbsp;**[LinkedIn](https://www.linkedin.com/in/david-pedroza-sanchez-9525b0346)**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/david-pedroza-sanchez-9525b0346]
+📫 Reach me at &nbsp;**[Davidpedroza05@hotmail.com](mailto:Davidpedroza05@hotmail.com)**
 
-### 🌍 Languages
- 
+</div>
+
+---
+
+<h3 align="center">🌍 Languages</h3>
+
+<div align="center">
+
 ![English](https://img.shields.io/badge/English-C1-0052CC?style=flat-square)
+&nbsp;
 ![French](https://img.shields.io/badge/French-B1-002395?style=flat-square)
+&nbsp;
 ![Spanish](https://img.shields.io/badge/Spanish-Native-C60B1E?style=flat-square)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dps1031&show_icons=true&hide_border=true&theme=default" height="150" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dps1031&layout=compact&hide_border=true&theme=default" height="150" />
+</div>
