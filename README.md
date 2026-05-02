@@ -74,8 +74,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dps1031&show_icons=true&hide_border=true&theme=default" height="150" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dps1031&layout=compact&hide_border=true&theme=default" height="150" />
-</div>
+<p align="center">
+  Built with ❤️ by <a href="https://www.linkedin.com/in/david-pedroza-sanchez-9525b0346">David Pedroza Sánchez</a>
+</p>
