@@ -31,22 +31,22 @@
 <div align="center">
 <img src="https://img.shields.io/badge/Backend-333?style=flat-square&logo=elemenaryos&logoColor=white" />
 <br>
-<img src="https://skillicons.dev/icons?i=python,nodejs,ts,cs,dotnet,php,java" />
+<img src="https://skillicons.dev/icons?i=python,nodejs,ts,cs,dotnet,php,java,fastapi" />
 <br>
 
 <img src="https://img.shields.io/badge/Frontend-333?style=flat-square&logo=windowsterminal&logoColor=white" />
 <br>
-<img src="https://skillicons.dev/icons?i=angular,react,html,tailwind,js" />
+<img src="https://skillicons.dev/icons?i=angular,react,html,tailwind,js,jquery,css,figma" />
 <br>
 
 <img src="https://img.shields.io/badge/Data_%26_IA-333?style=flat-square&logo=databricks&logoColor=white" />
 <br>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,python," />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,python," />
 <br>
 
 <img src="https://img.shields.io/badge/Tools_%26_DevOps-333?style=flat-square&logo=googlesheets&logoColor=white" />
 <br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws,kubernetes,linux,nginx" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws,kubernetes,linux,nginx,clion,idea,kali,laravel,postman,visualstudio" />
 </div>
 <br>
 
