@@ -82,7 +82,7 @@
 
 ---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DPS1031&" alt="DPS1031" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DPS1031&" alt="DPS1031" />
 
 ---
 
