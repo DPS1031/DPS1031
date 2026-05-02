@@ -17,13 +17,13 @@
 <div align="center">
 <img src="https://img.shields.io/badge/Backend-333?style=flat-square&logo=elemenaryos&logoColor=white" />
 <br>
-<img src="https://skillicons.dev/icons?i=python,nodejs,ts,cs,dotnet,php,java,fastapi" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=python,nodejs,typescript,cs,dotnet,php,java,fastapi" />
 <br>
 
 <img src="https://img.shields.io/badge/Frontend-333?style=flat-square&logo=windowsterminal&logoColor=white" />
 <br>
 <img src="https://skillicons.dev/icons?i=angular,react,html,tailwind,js,jquery,css,figma" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=angular,react,html,tailwindcss,javascript,jquery,figma," />
 <br>
 
 <img src="https://img.shields.io/badge/Data_%26_IA-333?style=flat-square&logo=databricks&logoColor=white" />
