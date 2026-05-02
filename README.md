@@ -78,8 +78,10 @@
 &nbsp;
 ![Spanish](https://img.shields.io/badge/Spanish-Native-C60B1E?style=flat-square)
 
+---
+
 ![DPS1031 Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=isupersky&layout=compact&langs_count=8&hide_border=true)
-<br />
+
 
 </div>
 
