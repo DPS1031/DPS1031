@@ -82,10 +82,6 @@
 
 ---
 
-<img src=https://github-readme-stats.vercel.app/api?username=DPS1031 align="left" alt="DPS 1031 Stats">
-
----
-
 <p align="center">
   Built with ❤️ by <a href="https://www.linkedin.com/in/david-pedroza-sanchez-9525b0346">David Pedroza Sánchez</a>
 </p>
