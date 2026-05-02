@@ -78,11 +78,12 @@
 &nbsp;
 ![Spanish](https://img.shields.io/badge/Spanish-Native-C60B1E?style=flat-square)
 
+</div>
+
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DPS1031)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+<img align="left" alt="DPS 1031 Stats" src=
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DPS1031)](https://github.com/anuraghazra/github-readme-stats)/>
 
 ---
 
