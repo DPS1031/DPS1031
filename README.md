@@ -46,9 +46,9 @@
 
 <div align="center">
 
-🔭 Currently building &nbsp;**[Ecommerce Solution](https://github.com/DPS1031/ecommerce-project)**
+🔭 Currently building &nbsp;**[AI Explorer](https://github.com/DPS1031/AI_Explorer)**
 
-🌱 Currently deepening my skills in &nbsp;**Angular · Tailwind · Python**
+🌱 Currently deepening my skills in &nbsp;**AI Agents for Databases · Streamlit · Python · AWS**
 
 👨‍💻 All my projects &nbsp;**[github.com/DPS1031](https://github.com/DPS1031?tab=repositories)**
 
