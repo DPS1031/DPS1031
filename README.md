@@ -17,7 +17,7 @@
 <div align="center">
 <img src="https://img.shields.io/badge/Backend-333?style=flat-square&logo=elemenaryos&logoColor=white" />
 <br>
-<img src="https://skillicons.dev/icons?i=python,nodejs,ts,cs,dotnet,php,java,fastapi" />
+<img src="https://skillicons.dev/icons?i=python,nodejs,ts,cs,dotnet,php,java,fastapi,streamlit" />
 <br>
 
 <img src="https://img.shields.io/badge/Frontend-333?style=flat-square&logo=windowsterminal&logoColor=white" />
