@@ -46,6 +46,6 @@
 
 <img src="https://img.shields.io/badge/Tools_%26_DevOps-333?style=flat-square&logo=googlesheets&logoColor=white" />
 <br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws,kubernetes,linux,nginx,kali,postman,visualstudio" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,aws,kubernetes,linux,nginx,kali,postman" />
 </div>
 <br>
