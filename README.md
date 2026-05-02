@@ -80,8 +80,7 @@
 
 ---
 
-![DPS1031 Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=isupersky&layout=compact&langs_count=8&hide_border=true)
-
+[![Top Langs](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
