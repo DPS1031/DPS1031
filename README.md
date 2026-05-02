@@ -30,12 +30,12 @@
 
 #### 🌐 Frontend
 <br>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=angular,react,html,tailwindcss,javascript,jquery,css,figma," />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=angular,react,html,tailwindcss,javascript,jquery,css,figma" />
 <br>
 
 #### 🗄️ Databases
 <br>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,mariadb,sqlserver,mongodb,python,gemini,chatgpt,claude" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,mariadb,sqlserver,mongodb" />
 <br>
 
 #### 🤖 AI & Tools
