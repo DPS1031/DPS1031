@@ -15,12 +15,12 @@
 <h3 align="left">🛠️ Technology Stack</h3>
 
 <div align="center">
-<img src="https://img.shields.io/badge/Backend-333?style=flat-square&logo=elemenaryos&logoColor=white" />
+### 🖥️ Backend
 <br>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=python,nodejs,typescript,cs,dotnet,php,java,fastapi" />
 <br>
 
-<img src="https://img.shields.io/badge/Frontend-333?style=flat-square&logo=windowsterminal&logoColor=white" />
+### 🌐 Frontend
 <br>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=angular,react,html,tailwindcss,javascript,jquery,css,figma," />
 <br>
@@ -30,9 +30,15 @@
 <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,mariadb,sqlserver,mongodb,python,gemini,chatgpt,claude" />
 <br>
 
+### 🤖 AI
+<br>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,gemini,chatgpt,claude" />
+<br>
+
 <img src="https://img.shields.io/badge/Tools_%26_DevOps-333?style=flat-square&logo=googlesheets&logoColor=white" />
 <br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,aws,kubernetes,linux,nginx,kali,postman" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git,gitbash,github,vscode,visualstudio,docker,aws,kubernetes,linux,nginx,kali,wireshark,postman" />
 </div>
 <br>
 
