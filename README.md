@@ -15,6 +15,7 @@
 <h3 align="left">🛠️ Technology Stack</h3>
 
 <div align="center">
+
 ### 🖥️ Backend
 <br>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=python,nodejs,typescript,cs,dotnet,php,java,fastapi" />
@@ -37,7 +38,6 @@
 
 <img src="https://img.shields.io/badge/Tools_%26_DevOps-333?style=flat-square&logo=googlesheets&logoColor=white" />
 <br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,aws,kubernetes,linux,nginx,kali,postman" />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=git,gitbash,github,vscode,visualstudio,docker,aws,kubernetes,linux,nginx,kali,wireshark,postman" />
 </div>
 <br>
