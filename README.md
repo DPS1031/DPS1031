@@ -91,11 +91,19 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-alpha-61.vercel.app/api/top-langs/?username=DPS1031&layout=compact&hide_border=true&langs_count=6" width="30%" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats-eight-alpha-61.vercel.app/api?username=DPS1031&hide_border=true&show_icons=true" width="36%" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DPS1031&hide_border=true" width="27%" />
+  <table border="0" cellpadding="4" cellspacing="0" width="100%">
+    <tr>
+      <td width="33%" align="center">
+        <img src="https://github-readme-stats-eight-alpha-61.vercel.app/api/top-langs/?username=DPS1031&layout=compact&hide_border=true&langs_count=6" width="100%" />
+      </td>
+      <td width="33%" align="center">
+        <img src="https://github-readme-stats-eight-alpha-61.vercel.app/api?username=DPS1031&hide_border=true&show_icons=true" width="100%" />
+      </td>
+      <td width="33%" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=DPS1031&hide_border=true" width="100%" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
