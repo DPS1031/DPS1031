@@ -6,7 +6,6 @@
 </div>
 
 <br>
-
 <div align="center">
   <a href="https://www.linkedin.com/in/david-pedroza-sanchez-9525b0346/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -18,25 +17,32 @@
 </div>
 
 ---
-
 <h2 align="center">🛠️ Technology Stack</h2>
-
 <div align="center">
-
 ### 🖥️ Backend
+<br>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=python,nodejs,typescript,cs,dotnet,php,java,fastapi" />
+<br>
 
 ### 🌐 Frontend
+<br>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=angular,react,html,tailwindcss,javascript,jquery,css,figma" />
+<br>
 
 ### 🗄️ Databases
+<br>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,mariadb,sqlserver,mongodb" />
+<br>
 
 ### 🤖 AI & Tools
+<br>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=python,gemini,chatgpt,claude" />
+<br>
 
 ### ☁️ DevOps & Cloud
+<br>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=git,gitbash,github,vscode,visualstudio,docker,aws,kubernetes,linux,nginx,kali,wireshark,postman" />
+<br>
 
 </div>
 
@@ -45,17 +51,11 @@
 <h3 align="center">📌 About Me</h3>
 
 <div align="center">
-
 🔭 Currently building &nbsp;**[AI Explorer](https://github.com/DPS1031/AI_Explorer)**
-
 🌱 Currently deepening my skills in &nbsp;**AI Agents for Databases · Streamlit · Python · AWS**
-
 👨‍💻 All my projects &nbsp;**[github.com/DPS1031](https://github.com/DPS1031?tab=repositories)**
-
 📄 My experience &nbsp;**[LinkedIn](https://www.linkedin.com/in/david-pedroza-sanchez-9525b0346)**
-
-📫 Reach me at &nbsp;**[Davidpedroza05@hotmail.com](mailto:Davidpedroza05@hotmail.com)**
-
+📫 Reach me at &nbsp;**[[Davidpedroza05@hotmail.com](mailto:Davidpedroza05@hotmail.com)](mailto:Davidpedroza05@hotmail.com)**
 </div>
 
 ---
@@ -63,27 +63,19 @@
 <h3 align="center">🌍 Languages</h3>
 
 <div align="center">
-
 ![English](https://img.shields.io/badge/English-C1-0052CC?style=flat-square)
 &nbsp;
 ![French](https://img.shields.io/badge/French-B1-002395?style=flat-square)
 &nbsp;
 ![Spanish](https://img.shields.io/badge/Spanish-Native-C60B1E?style=flat-square)
-
 </div>
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
-
 <div align="center">
-  <img src="https://github-readme-stats-eight-alpha-61.vercel.app/api/top-langs/?username=DPS1031&layout=compact&hide_border=true" height="160" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats-eight-alpha-61.vercel.app/api?username=DPS1031&hide_border=true&show_icons=true" height="160" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DPS1031&hide_border=true" height="160" />
+<img align="center" src="https://github-readme-stats-eight-alpha-61.vercel.app/api/top-langs/?username=DPS1031&layout=compact"/>
+<img align="center" src="https://github-readme-stats-eight-alpha-61.vercel.app/api?username=DPS1031"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DPS1031&" alt="DPS1031"/>
 </div>
 
 ---
