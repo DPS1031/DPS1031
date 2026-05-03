@@ -24,27 +24,19 @@
 <div align="center">
 
 ### 🖥️ Backend
-<br>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=python,nodejs,typescript,cs,dotnet,php,java,fastapi" />
-<br>
 
 ### 🌐 Frontend
-<br>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=angular,react,html,tailwindcss,javascript,jquery,css,figma" />
-<br>
 
 ### 🗄️ Databases
-<br>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,mariadb,sqlserver,mongodb" />
-<br>
 
 ### 🤖 AI & Tools
 <img src="https://go-skill-icons.vercel.app/api/icons?i=python,gemini,chatgpt,claude" />
 
 ### ☁️ DevOps & Cloud
-<br>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=git,gitbash,github,vscode,visualstudio,docker,aws,kubernetes,linux,nginx,kali,wireshark,postman" />
-<br>
 
 </div>
 
@@ -82,10 +74,16 @@
 
 ---
 
+<h3 align="center">📊 GitHub Stats</h3>
+
 <div align="center">
-<img align="center" src="https://github-readme-stats-eight-alpha-61.vercel.app/api/top-langs/?username=DPS1031&layout=compact"/>
-<img align="center" src="https://github-readme-stats-eight-alpha-61.vercel.app/api?username=DPS1031"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DPS1031&" alt="DPS1031"/>
+  <img src="https://github-readme-stats-eight-alpha-61.vercel.app/api/top-langs/?username=DPS1031&layout=compact&hide_border=true" height="160" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-eight-alpha-61.vercel.app/api?username=DPS1031&hide_border=true&show_icons=true" height="160" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DPS1031&hide_border=true" height="160" />
 </div>
 
 ---
