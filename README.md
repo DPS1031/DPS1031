@@ -91,19 +91,11 @@
 ---
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats-eight-alpha-61.vercel.app/api/top-langs/?username=DPS1031&layout=compact&hide_border=true" height="180" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats-eight-alpha-61.vercel.app/api?username=DPS1031&hide_border=true" height="180" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=DPS1031&hide_border=true" height="180" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats-eight-alpha-61.vercel.app/api/top-langs/?username=DPS1031&layout=compact&hide_border=true&langs_count=6" height="170" width="260" />
+  &nbsp;
+  <img src="https://github-readme-stats-eight-alpha-61.vercel.app/api?username=DPS1031&hide_border=true&show_icons=true" height="170" width="310" />
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DPS1031&hide_border=true" height="170" width="310" />
 </div>
 
 ---
