@@ -83,7 +83,8 @@
 ---
 
 <div align="center">
-<img align="center" src="https://github-readme-stats-eight-alpha-61.vercel.app/api/top-langs/?username=DPS1031"/>
+<img align="center" src="https://github-readme-stats-eight-alpha-61.vercel.app/api/top-langs/?username=DPS1031&langs_count=8"/>
+<img align="center" src="https://github-readme-stats-eight-alpha-61.vercel.app/api/top-langs/?username=DPS1031&size_weight=0.5&count_weight=0.5"/>
 <img align="center" src="https://github-readme-stats-eight-alpha-61.vercel.app/api?username=DPS1031"/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DPS1031&" alt="DPS1031"/>
 </div>
