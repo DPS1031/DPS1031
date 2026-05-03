@@ -51,7 +51,7 @@
 
 <h3 align="center">📌 About Me</h3>
 
-<div align="center">
+<div align="left">
 
 🔭 Currently building &nbsp;**[AI Explorer](https://github.com/DPS1031/AI_Explorer) <br>
 🌱 Currently deepening my skills in &nbsp;**AI Agents for Databases · Streamlit · Python · AWS <br>
@@ -79,13 +79,13 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats-eight-alpha-61.vercel.app/api/top-langs/?username=DPS1031&layout=compact&hide_border=true" height="160" />
+        <img src="https://github-readme-stats-eight-alpha-61.vercel.app/api/top-langs/?username=DPS1031&layout=compact&hide_border=false" height="160" />
       </td>
       <td>
-        <img src="https://github-readme-stats-eight-alpha-61.vercel.app/api?username=DPS1031&hide_border=true" height="160" />
+        <img src="https://github-readme-stats-eight-alpha-61.vercel.app/api?username=DPS1031&hide_border=false" height="160" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=DPS1031&hide_border=true" height="160" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=DPS1031&hide_border=false" height="160" />
       </td>
     </tr>
   </table>
