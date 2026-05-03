@@ -52,13 +52,28 @@
 <h3 align="center">📌 About Me</h3>
 
 <div align="center">
-
-🔭 Currently building &nbsp;**[AI Explorer](https://github.com/DPS1031/AI_Explorer) <br>
-🌱 Currently deepening my skills in &nbsp;**AI Agents for Databases · Streamlit · Python · AWS <br>
-👨‍💻 All my projects &nbsp;**[github.com/DPS1031](https://github.com/DPS1031?tab=repositories) <br>
-📄 My experience &nbsp;**[LinkedIn](https://www.linkedin.com/in/david-pedroza-sanchez-9525b0346) <br>
-📫 Reach me at &nbsp;**[[Davidpedroza05@hotmail.com](mailto:Davidpedroza05@hotmail.com)](mailto:Davidpedroza05@hotmail.com) <br>
-
+  <table border="0" cellpadding="6">
+    <tr>
+      <td align="right">🔭 Currently building</td>
+      <td><a href="https://github.com/DPS1031/AI_Explorer"><b>AI Explorer</b></a></td>
+    </tr>
+    <tr>
+      <td align="right">🌱 Deepening skills in</td>
+      <td><b>AI Agents for Databases · Streamlit · Python · AWS</b></td>
+    </tr>
+    <tr>
+      <td align="right">👨‍💻 All my projects</td>
+      <td><a href="https://github.com/DPS1031?tab=repositories"><b>github.com/DPS1031</b></a></td>
+    </tr>
+    <tr>
+      <td align="right">📄 My experience</td>
+      <td><a href="https://www.linkedin.com/in/david-pedroza-sanchez-9525b0346"><b>LinkedIn</b></a></td>
+    </tr>
+    <tr>
+      <td align="right">📫 Reach me at</td>
+      <td><a href="mailto:Davidpedroza05@hotmail.com"><b>Davidpedroza05@hotmail.com</b></a></td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -76,16 +91,16 @@
 ---
 
 <div align="center">
-  <table>
+  <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats-eight-alpha-61.vercel.app/api/top-langs/?username=DPS1031&layout=compact&hide_border=true" height="160" />
+        <img src="https://github-readme-stats-eight-alpha-61.vercel.app/api/top-langs/?username=DPS1031&layout=compact&hide_border=true" height="180" />
       </td>
       <td>
-        <img src="https://github-readme-stats-eight-alpha-61.vercel.app/api?username=DPS1031&hide_border=true" height="160" />
+        <img src="https://github-readme-stats-eight-alpha-61.vercel.app/api?username=DPS1031&hide_border=true" height="180" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=DPS1031&hide_border=true" height="160" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=DPS1031&hide_border=true" height="180" />
       </td>
     </tr>
   </table>
