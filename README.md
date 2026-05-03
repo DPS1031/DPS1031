@@ -52,11 +52,13 @@
 <h3 align="center">📌 About Me</h3>
 
 <div align="center">
+
 🔭 Currently building &nbsp;**[AI Explorer](https://github.com/DPS1031/AI_Explorer)**
 🌱 Currently deepening my skills in &nbsp;**AI Agents for Databases · Streamlit · Python · AWS**
 👨‍💻 All my projects &nbsp;**[github.com/DPS1031](https://github.com/DPS1031?tab=repositories)**
 📄 My experience &nbsp;**[LinkedIn](https://www.linkedin.com/in/david-pedroza-sanchez-9525b0346)**
 📫 Reach me at &nbsp;**[[Davidpedroza05@hotmail.com](mailto:Davidpedroza05@hotmail.com)](mailto:Davidpedroza05@hotmail.com)**
+
 </div>
 
 ---
@@ -64,19 +66,21 @@
 <h3 align="center">🌍 Languages</h3>
 
 <div align="center">
+  
 ![English](https://img.shields.io/badge/English-C1-0052CC?style=flat-square)
-&nbsp;
 ![French](https://img.shields.io/badge/French-B1-002395?style=flat-square)
-&nbsp;
 ![Spanish](https://img.shields.io/badge/Spanish-Native-C60B1E?style=flat-square)
+
 </div>
 
 ---
 
 <div align="center">
+
 <img align="center" src="https://github-readme-stats-eight-alpha-61.vercel.app/api/top-langs/?username=DPS1031&layout=compact"/>
 <img align="center" src="https://github-readme-stats-eight-alpha-61.vercel.app/api?username=DPS1031"/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DPS1031&" alt="DPS1031"/>
+
 </div>
 
 ---
