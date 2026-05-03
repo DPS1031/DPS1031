@@ -83,7 +83,6 @@
 ---
 
 <div align="center">
-<img align="center" src="https://github-readme-stats-eight-alpha-61.vercel.app/api/top-langs/?username=DPS1031&hide_progress=true"/>
 <img align="center" src="https://github-readme-stats-eight-alpha-61.vercel.app/api/top-langs/?username=DPS1031&layout=compact"/>
 <img align="center" src="https://github-readme-stats-eight-alpha-61.vercel.app/api?username=DPS1031"/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DPS1031&" alt="DPS1031"/>
