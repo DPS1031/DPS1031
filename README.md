@@ -52,25 +52,25 @@
 <h3 align="center">📌 About Me</h3>
 
 <div align="center">
-  <table border="0" cellpadding="6">
+  <table border="0" cellpadding="0">
     <tr>
-      <td align="right">🔭 Currently building</td>
+      <td align="left">🔭 Currently building</td>
       <td><a href="https://github.com/DPS1031/AI_Explorer"><b>AI Explorer</b></a></td>
     </tr>
     <tr>
-      <td align="right">🌱 Deepening skills in</td>
+      <td align="left">🌱 Deepening skills in</td>
       <td><b>AI Agents for Databases · Streamlit · Python · AWS</b></td>
     </tr>
     <tr>
-      <td align="right">👨‍💻 All my projects</td>
+      <td align="left">👨‍💻 All my projects</td>
       <td><a href="https://github.com/DPS1031?tab=repositories"><b>github.com/DPS1031</b></a></td>
     </tr>
     <tr>
-      <td align="right">📄 My experience</td>
+      <td align="left">📄 My experience</td>
       <td><a href="https://www.linkedin.com/in/david-pedroza-sanchez-9525b0346"><b>LinkedIn</b></a></td>
     </tr>
     <tr>
-      <td align="right">📫 Reach me at</td>
+      <td align="left">📫 Reach me at</td>
       <td><a href="mailto:Davidpedroza05@hotmail.com"><b>Davidpedroza05@hotmail.com</b></a></td>
     </tr>
   </table>
