@@ -91,11 +91,11 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-alpha-61.vercel.app/api/top-langs/?username=DPS1031&layout=compact&hide_border=true&langs_count=6&card_width=1" width="40%" />
+  <img src="https://github-readme-stats-eight-alpha-61.vercel.app/api/top-langs/?username=DPS1031&layout=compact&hide_border=true&langs_count=6&card_width=1" width="20%" />
   &nbsp;
   <img src="https://github-readme-stats-eight-alpha-61.vercel.app/api?username=DPS1031&hide_border=true&show_icons=true&card_width=1" width="40%" />
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DPS1031&hide_border=true&card_width=1" width="40%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DPS1031&hide_border=true&card_width=1" width="20%" />
 </div>
 
 ---
