@@ -53,7 +53,7 @@
 
 <div align="center">
 
-🔭 Currently building &nbsp;**[AI Explorer](https://github.com/DPS1031/AI_Explorer)**
+🔭 Currently building &nbsp;**[AI Explorer](https://github.com/DPS1031/AI_Explorer)<br>
 🌱 Currently deepening my skills in &nbsp;**AI Agents for Databases · Streamlit · Python · AWS**
 👨‍💻 All my projects &nbsp;**[github.com/DPS1031](https://github.com/DPS1031?tab=repositories)**
 📄 My experience &nbsp;**[LinkedIn](https://www.linkedin.com/in/david-pedroza-sanchez-9525b0346)**
