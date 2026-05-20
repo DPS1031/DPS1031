@@ -42,7 +42,7 @@
 
 ### ☁️ DevOps & Cloud
 <br>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=git,gitbash,github,vscode,visualstudio,docker,aws,kubernetes,linux,nginx,kali,wireshark,postman" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git,gitbash,github,vscode,visualstudio,docker,aws,azure,kubernetes,linux,nginx,kali,wireshark,postman" />
 <br>
 
 </div>
