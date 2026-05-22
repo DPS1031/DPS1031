@@ -22,7 +22,7 @@
 
 ### 🖥️ Backend
 <br>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=python,nodejs,typescript,cs,dotnet,php,java,fastapi" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,nodejs,typescript,cs,dotnet,php,java,fastapi,django" />
 <br>
 
 ### 🌐 Frontend
