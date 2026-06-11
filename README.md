@@ -27,7 +27,7 @@
 
 ### 🌐 Frontend
 <br>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=angular,react,html,tailwindcss,javascript,jquery,css,figma" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=angular,react,html,tailwindcss,javascript,streamlit,jquery,css,figma" />
 <br>
 
 ### 🗄️ Databases
