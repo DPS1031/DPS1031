@@ -51,7 +51,7 @@ These are the technologies I use across full-stack web development, AI integrati
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C Sharp" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=oracle&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logoColor=white" alt="Java" />
 </p>
 
 **Databases**
