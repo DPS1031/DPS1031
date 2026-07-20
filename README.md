@@ -83,7 +83,7 @@
 <div align="center">
   
 ![English](https://img.shields.io/badge/English-C1-0052CC?style=flat-square)
-![French](https://img.shields.io/badge/French-B1-002395?style=flat-square)
+![French](https://img.shields.io/badge/French-B2-002395?style=flat-square)
 ![Spanish](https://img.shields.io/badge/Spanish-Native-C60B1E?style=flat-square)
 
 </div>
