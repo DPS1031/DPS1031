@@ -8,16 +8,6 @@
   I'm a Full Stack Developer based in Medellín, Colombia, with over two years of freelance experience building modern web applications end to end. I work across React, Angular and TypeScript on the frontend, and Python (FastAPI, Django) or Node.js/Express on the backend — with hands-on experience deploying containerized applications on AWS (EC2, ECR, SES). I care about understanding the systems I build, not just shipping them, and I bring that into every project: clean architecture, JWT auth done right, and AI features that are actually useful.
 </p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/david-pedroza-sanchez-9525b0346/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:Davidpedroza05@hotmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=dps1031&label=Profile+views&color=0e75b6&style=for-the-badge" alt="profile views" />
-</div>
-
 ---
 
 ## 📌 About me
@@ -138,6 +128,20 @@ These are the technologies I use across full-stack web development, AI integrati
   <img src="https://github-readme-stats-eight-alpha-61.vercel.app/api?username=DPS1031&hide_border=true&show_icons=true&card_width=1" width="39%" />
   &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DPS1031&hide_border=true&card_width=1" width="26.8%" />
+</div>
+
+---
+
+<h2 align="center">Let's talk</h2>
+
+  <div align="center">
+  <a href="https://www.linkedin.com/in/david-pedroza-sanchez-9525b0346/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:Davidpedroza05@hotmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=dps1031&label=Profile+views&color=0e75b6&style=for-the-badge" alt="profile views" />
 </div>
 
 ---
