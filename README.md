@@ -77,6 +77,7 @@ These are the technologies I use across full-stack web development, AI integrati
   <img src="https://shields.io" alt="Claude Code"/>
 </p>
 
+
 **Cloud & DevOps**
 
 <p>
