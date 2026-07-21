@@ -10,7 +10,7 @@
 
 ---
 
-## 📌 About me
+## About me
 
 - 🔭 **Currently building:** [AI Explorer Pharmacy](https://github.com/DPS1031/AI_Explorer) — an AI-powered assistant with natural language to SQL, image-based medication recognition, and automated invoicing.
 - 🌱 **Deepening skills in:** AI agents for databases, Streamlit, Python, and AWS.
@@ -23,7 +23,7 @@
 
 ---
 
-## 🛠️ Technical toolkit
+## Technical toolkit
 
 These are the technologies I use across full-stack web development, AI integration, and cloud deployment.
 
@@ -97,7 +97,7 @@ These are the technologies I use across full-stack web development, AI integrati
 
 ---
 
-## 🚀 Featured projects
+## Featured projects
 
 - **[AI Explorer Pharmacy](https://github.com/DPS1031/AI_Explorer)** — AI-powered pharmacy assistant built with Python, Streamlit, OpenAI GPT-4o-mini, and PostgreSQL. Converts natural language to SQL, identifies medications from photos, handles conversational ordering, and emails PDF invoices via AWS SES. Deployed on EC2 with Docker Compose and private ECR repos.
 - **[Omni-Commerce](https://github.com/DPS1031/ecommerce-project)** — Full-stack e-commerce platform with FastAPI and Angular. JWT HttpOnly cookie auth, Flyway-versioned PostgreSQL migrations, dual Angular clients (storefront + admin), and full Docker orchestration.
@@ -112,7 +112,7 @@ These are the technologies I use across full-stack web development, AI integrati
 
 ---
 
-## 🎓 Education & certifications
+## Education & certifications
 
 - **Bachelor's Degree in Computer Software Engineering** — Institución Universitaria ITM, Medellín (2020–2024)
 - **The Structured Query Language (SQL)** — University of Colorado Boulder, 2024
