@@ -73,8 +73,8 @@ These are the technologies I use across full-stack web development, AI integrati
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" /> 
   <img src="https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge" alt="Prompt Engineering" /> 
   <img src="https://img.shields.io/badge/Google-Gemini-yellow?style=for-the-badge&logo=google" alt="Gemini"/> 
-  <img src="https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white" alt="Chatgpt"/> 
-  <img src="https://img.shields.io/badge/Claude_Code-555?logo=claude" alt="Claude"/></p>
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="Chatgpt"/> 
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/></p>
 </p>
 
 **Cloud & DevOps**
@@ -87,6 +87,7 @@ These are the technologies I use across full-stack web development, AI integrati
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
