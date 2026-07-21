@@ -142,7 +142,7 @@ These are the technologies I use across full-stack web development, AI integrati
 
 ---
 
-<h2 align="center">Let's talk</h2>
+<h2 align="center">Let's Connect</h2>
 
   <div align="center">
   <a href="https://www.linkedin.com/in/david-pedroza-sanchez-9525b0346/">
