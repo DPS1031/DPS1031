@@ -74,7 +74,7 @@ These are the technologies I use across full-stack web development, AI integrati
   <img src="https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge" alt="Prompt Engineering" />
   <img src="https://img.shields.io/badge/Google-Gemini-yellow?style=for-the-badge&logo=google" alt="Gemini"/>
   <img src="https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white" alt="Chatgpt"/>
-  <img src="https://img.shields.io/badge/Claude_Code?style=for-the-badge&logo=claude alt="Claude"/>
+  <img src="https://img.shields.io/badge/Claude_Code?style=for-the-badge&logo=claude" alt="Claude"/>
   <img src="https://img.shields.io/badge/Google-Gemini?style=for-the-badge&logo=google" alt="Gemini"/>
 </p>
 
